@@ -1,0 +1,14 @@
+{
+	"name": "emmas-block/emmas-block",
+	"title": "Emma's Block",
+	"category": "common",
+	"icon": "carrot",
+	"description": "Example Gutenberg block created by Emma",
+	"textdomain": "emmas-block",
+	"supports": {
+		"html": false
+	},
+	"editorScript": "file:./build/index.js",
+	"editorStyle": "file:./build/index.css",
+	"style": "file:./build/style-index.css"
+}
